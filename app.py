@@ -6,3 +6,8 @@ def greet(name):
 
 greet("Developer")
 
+def show_version():
+    print("Application version: 2.0")
+
+greet("Developer")
+show_version()
